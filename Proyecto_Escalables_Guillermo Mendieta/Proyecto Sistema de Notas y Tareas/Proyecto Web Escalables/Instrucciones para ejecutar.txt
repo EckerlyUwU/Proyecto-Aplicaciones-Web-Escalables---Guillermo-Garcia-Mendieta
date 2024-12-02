@@ -1,0 +1,11 @@
+
+***Iniciar MongoDB Compass antes de todo***
+
+Primero:
+En la carpeta del servidor usar:
+npm run dev
+
+Segundo:
+En la carpeta del cliente usar:
+ng serve
+
